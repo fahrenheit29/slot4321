@@ -1,16 +1,16 @@
 {
-    "name": "eb7b500e1d378bef36ffacfbbee00064",
-    "theme": "syntax",
-    "version": "2.0.1952",
-    "description": "slot777wallet หัดเล่นสล็อตฟรี ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet หัดเล่นสล็อตฟรี",
+  "theme": "syntax",
+  "version": "2.0.1952",
+  "description": "slot777wallet หัดเล่นสล็อตฟรี ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
