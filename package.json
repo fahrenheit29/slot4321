@@ -1,16 +1,16 @@
 {
-    "name": "46c004861a7bc51d8188e37311cf5ef0",
-    "theme": "syntax",
-    "version": "2.0.1853",
-    "description": "slot777wallet สล็อตเว็บตรง100% ✔ แจ็กพอตแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet สล็อตเว็บตรง100%",
+  "theme": "syntax",
+  "version": "2.0.1853",
+  "description": "slot777wallet สล็อตเว็บตรง100% ✔ แจ็กพอตแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
