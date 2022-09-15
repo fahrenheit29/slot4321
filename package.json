@@ -1,16 +1,16 @@
 {
-    "name": "2235f8d798562e14e86796dd2b8f230b",
-    "theme": "syntax",
-    "version": "2.0.2084",
-    "description": "slot777wallet เล่นเกมสล็อต777 ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เล่นเกมสล็อต777",
+  "theme": "syntax",
+  "version": "2.0.2084",
+  "description": "slot777wallet เล่นเกมสล็อต777 ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
