@@ -1,16 +1,16 @@
 {
-    "name": "1f1b0a01a3cd348e4028114ce95fd3d2",
-    "theme": "syntax",
-    "version": "2.0.2030",
-    "description": "slot777wallet เว็บสล็อต โบนัสเยอะ ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เว็บสล็อต โบนัสเยอะ",
+  "theme": "syntax",
+  "version": "2.0.2030",
+  "description": "slot777wallet เว็บสล็อต โบนัสเยอะ ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
