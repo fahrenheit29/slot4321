@@ -1,16 +1,16 @@
 {
-    "name": "f0bc40ae0fc6342184accca46687e3ab",
-    "theme": "syntax",
-    "version": "2.0.2066",
-    "description": "slot777wallet สล็อต pg เว็บตรงจากอเมริกา ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet สล็อต pg เว็บตรงจากอเมริกา",
+  "theme": "syntax",
+  "version": "2.0.2066",
+  "description": "slot777wallet สล็อต pg เว็บตรงจากอเมริกา ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
