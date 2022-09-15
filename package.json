@@ -1,16 +1,16 @@
 {
-    "name": "de0aabb3ad7a97cc86a5dc926142f240",
-    "theme": "syntax",
-    "version": "2.0.2052",
-    "description": "slot777wallet เว็บสล็อตไม่ผ่านเอเย่นต์ดีที่สุด ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เว็บสล็อตไม่ผ่านเอเย่นต์ดีที่สุด",
+  "theme": "syntax",
+  "version": "2.0.2052",
+  "description": "slot777wallet เว็บสล็อตไม่ผ่านเอเย่นต์ดีที่สุด ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
