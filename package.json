@@ -1,16 +1,16 @@
 {
-    "name": "69ebd15d1335c67911577677ba07a62a",
-    "theme": "syntax",
-    "version": "2.0.2096",
-    "description": "slot777wallet เข้าเล่นสล็อต 888 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เข้าเล่นสล็อต 888",
+  "theme": "syntax",
+  "version": "2.0.2096",
+  "description": "slot777wallet เข้าเล่นสล็อต 888 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
