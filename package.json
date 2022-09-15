@@ -1,16 +1,16 @@
 {
-    "name": "b55f470a9b8c289042cd9cc1e0e2770e",
-    "theme": "syntax",
-    "version": "2.0.1970",
-    "description": "slot777wallet ทดลองเล่นสล็อต pg ไม่ เด้ง ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet ทดลองเล่นสล็อต pg ไม่ เด้ง",
+  "theme": "syntax",
+  "version": "2.0.1970",
+  "description": "slot777wallet ทดลองเล่นสล็อต pg ไม่ เด้ง ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
