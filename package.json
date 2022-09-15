@@ -1,16 +1,16 @@
 {
-    "name": "a654541f36c667d02b6b194f3272aa57",
-    "theme": "syntax",
-    "version": "2.0.1903",
-    "description": "slot777wallet เล่นสล็อตเว็บตรง ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เล่นสล็อตเว็บตรง",
+  "theme": "syntax",
+  "version": "2.0.1903",
+  "description": "slot777wallet เล่นสล็อตเว็บตรง ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
