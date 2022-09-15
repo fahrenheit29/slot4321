@@ -1,16 +1,16 @@
 {
-    "name": "ae42f0d9c74766c5d548e0b3a1e480d1",
-    "theme": "syntax",
-    "version": "2.0.2068",
-    "description": "slot777wallet สล็อต pg ค่ายใหญ่ ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet สล็อต pg ค่ายใหญ่",
+  "theme": "syntax",
+  "version": "2.0.2068",
+  "description": "slot777wallet สล็อต pg ค่ายใหญ่ ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
