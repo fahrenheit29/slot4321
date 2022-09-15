@@ -1,16 +1,16 @@
 {
-    "name": "8470f2a293d72f23cc833dabd52e922c",
-    "theme": "syntax",
-    "version": "2.0.1924",
-    "description": "slot777wallet เล่นสล็อตฟรีได้เงินจริง ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เล่นสล็อตฟรีได้เงินจริง",
+  "theme": "syntax",
+  "version": "2.0.1924",
+  "description": "slot777wallet เล่นสล็อตฟรีได้เงินจริง ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
