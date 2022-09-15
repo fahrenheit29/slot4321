@@ -1,16 +1,16 @@
 {
-    "name": "26db14350ef62a77b914f0200b362585",
-    "theme": "syntax",
-    "version": "2.0.1976",
-    "description": "slot777wallet เล่นสล็อต ได้เงินทุกวัน ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เล่นสล็อต ได้เงินทุกวัน",
+  "theme": "syntax",
+  "version": "2.0.1976",
+  "description": "slot777wallet เล่นสล็อต ได้เงินทุกวัน ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
