@@ -1,16 +1,16 @@
 {
-    "name": "a7ab6a5bfa990790a499224426c821e8",
-    "theme": "syntax",
-    "version": "2.0.2024",
-    "description": "slot777wallet สมัคร เกมสล็อตใหม่ล่าสุด ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet สมัคร เกมสล็อตใหม่ล่าสุด",
+  "theme": "syntax",
+  "version": "2.0.2024",
+  "description": "slot777wallet สมัคร เกมสล็อตใหม่ล่าสุด ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
