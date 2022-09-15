@@ -1,16 +1,16 @@
 {
-    "name": "064f38107d0d25a2305004c8265b4075",
-    "theme": "syntax",
-    "version": "2.0.1875",
-    "description": "slot777wallet สล็อตเว็บตรง แตกง่าย ไม่มี ขั้นต่ำ ✔ รางวัลใหญ่แตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet สล็อตเว็บตรง แตกง่าย ไม่มี ขั้นต่ำ",
+  "theme": "syntax",
+  "version": "2.0.1875",
+  "description": "slot777wallet สล็อตเว็บตรง แตกง่าย ไม่มี ขั้นต่ำ ✔ รางวัลใหญ่แตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
