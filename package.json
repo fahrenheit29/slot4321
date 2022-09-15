@@ -1,16 +1,16 @@
 {
-    "name": "8cb3a5ad73999c19ee8649d521a5f049",
-    "theme": "syntax",
-    "version": "2.0.2100",
-    "description": "slot777wallet สล็อต 888 ฟรีเครดิต 50 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet สล็อต 888 ฟรีเครดิต 50",
+  "theme": "syntax",
+  "version": "2.0.2100",
+  "description": "slot777wallet สล็อต 888 ฟรีเครดิต 50 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
