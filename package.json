@@ -1,16 +1,16 @@
 {
-    "name": "fc04a293cbe2b7932b9e9d57865e6348",
-    "theme": "syntax",
-    "version": "2.0.2018",
-    "description": "slot777wallet เว็บสล็อตเปิดใหม่ แจกเครดิตฟรี 2022 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet เว็บสล็อตเปิดใหม่ แจกเครดิตฟรี 2022",
+  "theme": "syntax",
+  "version": "2.0.2018",
+  "description": "slot777wallet เว็บสล็อตเปิดใหม่ แจกเครดิตฟรี 2022 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
