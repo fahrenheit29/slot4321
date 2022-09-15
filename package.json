@@ -1,16 +1,16 @@
 {
-    "name": "ea4514330e462469c2ca2a15982d1449",
-    "theme": "syntax",
-    "version": "2.0.1938",
-    "description": "slot777wallet ทดลองเล่นสล็อต pg ฟรี ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "superslot เครดิตฟรี",
-        "y9 เครดิตฟรี",
-        "ซุปเปอร์สล็อต เครดิตฟรี50"
-    ],
-    "repository": "https://github.com/samanahay239/slotwallet239",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "slot777wallet ทดลองเล่นสล็อต pg ฟรี",
+  "theme": "syntax",
+  "version": "2.0.1938",
+  "description": "slot777wallet ทดลองเล่นสล็อต pg ฟรี ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "superslot เครดิตฟรี",
+    "y9 เครดิตฟรี",
+    "ซุปเปอร์สล็อต เครดิตฟรี50"
+  ],
+  "repository": "https://github.com/samanahay239/slotwallet239",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
